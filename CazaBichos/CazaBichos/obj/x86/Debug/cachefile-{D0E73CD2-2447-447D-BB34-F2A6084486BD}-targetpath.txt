@@ -1,0 +1,12 @@
+Content\Fondo\FondoNegro.xnb
+Content\Graficos\Bicho.xnb
+Content\Graficos\Bicho2.xnb
+Content\Graficos\Bicho3.xnb
+Content\Graficos\pelota.xnb
+Content\Puntage.xnb
+Content\Musica\avicci.xnb
+Content\Musica\avicci.wma
+Content\Musica\vox_Stewie_5acx19_excellent_01.xnb
+Content\Musica\vox_Stewie_6acx18_uhoh_01.xnb
+Content\Timer.xnb
+Content\felicidades.xnb

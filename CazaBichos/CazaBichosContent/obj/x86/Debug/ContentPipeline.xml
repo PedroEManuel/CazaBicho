@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fondo\FondoNegro.png</Source>
+      <Name>Fondo\FondoNegro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Fondo\FondoNegro.xnb</Output>
+      <Time>2014-11-03T18:54:30.9376747-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Graficos\Bicho.png</Source>
+      <Name>Graficos\Bicho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Graficos\Bicho.xnb</Output>
+      <Time>2014-11-03T18:39:17.8874554-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Graficos\Bicho2.png</Source>
+      <Name>Graficos\Bicho2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Graficos\Bicho2.xnb</Output>
+      <Time>2014-11-03T18:39:17.90308-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Graficos\Bicho3.png</Source>
+      <Name>Graficos\Bicho3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Graficos\Bicho3.xnb</Output>
+      <Time>2014-11-03T18:39:17.918677-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Graficos\pelota.png</Source>
+      <Name>Graficos\pelota</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Graficos\pelota.xnb</Output>
+      <Time>2014-11-03T18:41:04.4851818-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Puntage.spritefont</Source>
+      <Name>Puntage</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Puntage.xnb</Output>
+      <Time>2014-11-03T19:45:11.3763109-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\avicci.mp3</Source>
+      <Name>Musica\avicci</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Musica\avicci.xnb</Output>
+      <Extra>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Musica\avicci.wma</Extra>
+      <Time>2014-11-07T01:43:06.0172273-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\vox_Stewie_5acx19_excellent_01.wav</Source>
+      <Name>Musica\vox_Stewie_5acx19_excellent_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Musica\vox_Stewie_5acx19_excellent_01.xnb</Output>
+      <Time>2014-11-07T01:50:27.652398-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\vox_Stewie_6acx18_uhoh_01.wav</Source>
+      <Name>Musica\vox_Stewie_6acx18_uhoh_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Musica\vox_Stewie_6acx18_uhoh_01.xnb</Output>
+      <Time>2014-11-07T01:55:46.6767278-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Timer.spritefont</Source>
+      <Name>Timer</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\Timer.xnb</Output>
+      <Time>2014-11-24T15:09:54.7538679-03:00</Time>
+    </Item>
+    <Item>
+      <Source>felicidades.spritefont</Source>
+      <Name>felicidades</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\felicidades.xnb</Output>
+      <Time>2014-11-26T21:17:01.956981-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichosContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichosContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Pedro\Documents\Visual Studio 2010\Projects\CazaBichos\CazaBichos\CazaBichos\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-01T23:24:20.4190494-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
